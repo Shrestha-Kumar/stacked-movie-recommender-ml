@@ -1,0 +1,41 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs and backups
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Machine learning model files
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.h5
+*.pt
+*.ckpt
+
+# Project data and large folders
+models/
+data/
