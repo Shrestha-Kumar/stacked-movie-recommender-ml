@@ -32,7 +32,7 @@ If you're unable to train the model locally, download these files:
 
 | File                | Size   | Description                            | Download Link |
 |---------------------|--------|----------------------------------------|---------------|
-| `model.pkl`         | ~7 GB  | Trained `StackingRegressor` model      | [Download]([https://drive.google.com/your-model-link](https://drive.google.com/file/d/1JLYyGsvksbKjahAFAh_U5qPYGMNd_g66/view?usp=drive_link]) |
+| `model.pkl`         | ~7 GB  | Trained `StackingRegressor` model      | [Download](https://drive.google.com/your-model-link](https://drive.google.com/file/d/1JLYyGsvksbKjahAFAh_U5qPYGMNd_g66/view?usp=drive_link) |
 | `cleaned_data.pkl`  | ~2 GB  | Feature-engineered training data       | [Download](https://drive.google.com/file/d/1L3J_d-7xpmmBdotXRVJlGUkBA3_MYQVN/view?usp=drive_link) |
 | `title.pkl`         | <1 MB  | Movie ID-to-title dictionary           | [Download](https://drive.google.com/file/d/1IxBlH3cXTnJ7-bNt1YyJXF74aQQImIbj/view?usp=drive_link) |
 
